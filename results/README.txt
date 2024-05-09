@@ -1,0 +1,1 @@
+The results made on each resampled dataset are stored as images in each directory
